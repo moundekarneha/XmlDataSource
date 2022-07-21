@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Emp>
+	<data id="1" name="neha" dept="IT"></data>
+	<data id="2" name="sneha" dept="CSE"></data>
+	<data id="3" name="nehal" dept="ETC"></data>
+	<data id="4" name="nehals" dept="EXTC"></data>
+</Emp>
+ 
